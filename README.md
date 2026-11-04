@@ -55,6 +55,9 @@ Desafio de projeto da **DIO (Digital Innovation One)** para criação de um MVP 
 <summary><b>Clique para expandir o Mega Prompt inicial usado no Lovable</b></summary>
 
 ```markdown
+
+1. interação
+
 MVP Estruturado
 Landing Page (/)
 Hero Section
@@ -235,3 +238,7 @@ Integração PIX
 Checkout online
 Histórico de clientes
 CRM integrado
+
+2. interação
+
+está dando erro na API do whatszap tem outra opçao mais valida?
